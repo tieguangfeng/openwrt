@@ -1,9 +1,9 @@
 ##### OpenWrt初始化
 ```
-curl -# -o /etc/crontabs/root https://gitlab.com/tieguangfeng/openwrt/-/raw/main/crontabs.txt
-curl -# -o /etc/homeproxy/resources/proxy_list.txt https://gitlab.com/tieguangfeng/openwrt/-/raw/main/proxy_list.txt
-curl -# -o /etc/homeproxy/resources/direct_list.txt https://gitlab.com/tieguangfeng/openwrt/-/raw/main/direct_list.txt
-curl -# -o /etc/myhosts https://gitlab.com/tieguangfeng/openwrt/-/raw/main/myhosts
+curl -# -o /etc/crontabs/root https://raw.githubusercontent.com/tieguangfeng/openwrt/refs/heads/main/crontabs.txt
+curl -# -o /etc/myhosts https://raw.githubusercontent.com/tieguangfeng/openwrt/refs/heads/main/myhosts
+curl -# -o /etc/homeproxy/resources/proxy_list.txt https://raw.githubusercontent.com/tieguangfeng/openwrt/refs/heads/main/homeproxy/proxy_list.txt
+curl -# -o /etc/homeproxy/resources/direct_list.txt https://raw.githubusercontent.com/tieguangfeng/openwrt/refs/heads/main/homeproxy/direct_list.txt
 ```
 ##### 系统重置
 ```
