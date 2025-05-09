@@ -1,0 +1,24 @@
+# DIRECT（直连）
+- DOMAIN,imap-mail.outlook.com,DIRECT
+- DOMAIN,smtp-mail.outlook.com,DIRECT
+- DOMAIN-SUFFIX,storage.live.com,DIRECT
+- DOMAIN-SUFFIX,api.onedrive.com,DIRECT
+- DOMAIN-SUFFIX,files.1drv.com,DIRECT
+- DOMAIN-SUFFIX,diantige.com,DIRECT
+- DOMAIN-SUFFIX,douban.com,DIRECT
+- DOMAIN-SUFFIX,svc.ms,DIRECT
+
+# REJECT（拦截）
+- DOMAIN,www.lebo.cn,REJECT
+- DOMAIN,hpplay.cdn.cibn.cc,REJECT
+- DOMAIN,g.dtv.cn.miaozhen.com,REJECT
+- DOMAIN,android.bugly.qq.com,REJECT
+- DOMAIN,519332DA.rtc.youme.im,REJECT
+- DOMAIN,alog.umeng.com,REJECT
+- DOMAIN-SUFFIX,hpplay.com.cn,REJECT
+- DOMAIN-SUFFIX,hpplay.cn,REJECT
+- DOMAIN-SUFFIX,flnet.com,REJECT
+- DOMAIN-SUFFIX,miaozhen.com,REJECT
+- DOMAIN-KEYWORD,parallels,REJECT
+- DOMAIN-SUFFIX,myparallels.com,REJECT
+- DOMAIN-SUFFIX,parallelskorea.com,REJECT
