@@ -1,0 +1,31 @@
+#乐播投屏
+127.0.0.1 hpplay.cdn.cibn.cc
+127.0.0.1 h5.hpplay.com.cn
+127.0.0.1 sdkauth.hpplay.cn
+127.0.0.1 imdns.hpplay.cn
+127.0.0.1 vipauth.hpplay.cn
+127.0.0.1 rp.hpplay.cn
+127.0.0.1 sl.hpplay.cn
+127.0.0.1 519332DA.rtc.youme.im
+127.0.0.1 hotupgrade.hpplay.cn
+127.0.0.1 hotupgrade.hpplay.com.cn
+127.0.0.1 pin.hpplay.cn
+127.0.0.1 tvapp.hpplay.cn
+127.0.0.1 hpplay.cdn.cibn.cc
+127.0.0.1 image.hpplay.cn
+127.0.0.1 gslb.hpplay.cn
+127.0.0.1 rp.hpplay.cn
+127.0.0.1 cdn.hpplay.com.cn
+127.0.0.1 h5.hpplay.com.cn
+127.0.0.1 adeng.hpplay.cn
+127.0.0.1 conf.hpplay.cn
+127.0.0.1 adcdn.hpplay.cn
+127.0.0.1 g.dtv.cn.miaozhen.com
+127.0.0.1 android.bugly.qq.com
+127.0.0.1 alog.umeng.com
+127.0.0.1 hotupgrade.hpplay.cn
+127.0.0.1 pin.hpplay.cn
+#屏蔽夏普
+127.0.0.1 flnet.com
+127.0.0.1 miaozhen.com
+127.0.0.1 svc.ptsharp.gitv.tv/ota/
