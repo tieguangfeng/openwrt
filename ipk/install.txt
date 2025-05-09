@@ -1,0 +1,4 @@
+===SakuraFrp===
+opkg update
+curl -# -o /tmp/luci-app-natfrp_arm64.ipk https://gitlab.com/tieguangfeng/openwrt/-/raw/main/ipk/luci-app-natfrp_arm64.ipk
+opkg install /tmp/luci-app-natfrp_arm64.ipk
