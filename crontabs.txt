@@ -1,1 +1,1 @@
-0 3 * * 5 sleep 70 && touch /etc/banner && reboot
+10 3 * * 3 sleep 70 && touch /etc/banner && reboot
